@@ -1,6 +1,8 @@
 # notes 
 Intro text 
 GBC COMP1238 course - intro to data management 
+
+
 "Numbers row characters" 
 - ! exclamation mark 
 - @ adress sign
