@@ -7,7 +7,7 @@ GBC COMP1238 course - intro to data management
 - #\# pound 
 - $ money
 - % percenatge 
-- ^ 
+- ^ caret
 - & ampersand
 - * asterisk 
 - ( open bracket
