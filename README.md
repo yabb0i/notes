@@ -9,11 +9,11 @@ GBC COMP1238 course - intro to data management
 - % percenatge 
 - ^ caret
 - & ampersand
-- * asterisk 
+- \*\* asterisk 
 - ( open bracket
 - ) closing bracket 
 - _ underscore
-- + plus sign
+- \+\+ plus sign
 
 "Links"
 - [YouTube page](https://www.youtube.com/)
