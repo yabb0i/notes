@@ -45,7 +45,7 @@ Shortcuts i frequntly use:
 - Win-L(Lock PC)
 - Win-E(Show or hide the desktop)
 - Ctrl+/-(zoom in or out)
-- Ctrl + Shift + T()OPen the last tab you closed
+- Ctrl + Shift + T(Open the last tab you closed)
 - Alt-tab(switch between open tabs)
 - Ctrl-S(save progress)
 - Ctrl-X(cut)
