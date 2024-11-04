@@ -20,8 +20,8 @@
   {
     "Name": "Serena Williams",
     "Sport" : "Tennis",
-    "Team Name" : "N/A", // string
-    "Team City" : "N/A", // string
+    "Team Name" : "N/A", // Not representing any team, except when she played for the U.S.A during the Olympics.
+    "Team City" : "N/A", // Not representing any city team, except when she played for the U.S.A during the Olympics.
     "Position" : "Player",
     "Age" : "41"
   },
