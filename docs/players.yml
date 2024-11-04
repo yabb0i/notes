@@ -12,9 +12,9 @@
   Position: Forward
   Age: '36'
 - Name: Serena Williams
-  Sport: Tennis
-  Team Name: N/A
-  Team City: N/A
+  Sport: Tennis 
+  Team Name: N/A # Not in a Team
+  Team City: N/A # Not representing any team, except when she played for the U.S.A during the Olympics. 
   Position: Player
   Age: '41'
 - Name: Tom Brady
