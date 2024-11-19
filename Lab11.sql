@@ -1,4 +1,4 @@
-#\ SQL Exercises 
+#/SQL Exercises 
   
 - Exercise 1. Asignemtns for a specific Course  
   SELECT title, due_date
