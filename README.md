@@ -1,4 +1,4 @@
-# notes 
+# Notes 
 Intro text 
 GBC COMP1238 course - intro to data management 
 
