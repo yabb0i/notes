@@ -29,3 +29,10 @@
   WHERE status = 'Completed'
   AND   due_date < '2024-1'
   ORDER BY due_date;
+
+- "otptional task"
+
+7. -- Find Courses with Labs on Tuesday
+   SELECT  course_id, course_name
+   FROM  courses
+   WHERE lab_time LIKE 'Tue%'
