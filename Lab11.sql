@@ -10,8 +10,8 @@
   FROM assignments
 
 - Exercise 3. Latest Assignment Due date
-  SELECT   max(due_date)
-  FROM   assignments
+  SELECT max(due_date)
+  FROM assignments
 
 -Exercise 4. Assignemtns due on a Specific date 
   SELECT title, due_date
@@ -28,4 +28,4 @@
   FROM assignments 
   WHERE status = 'Completed'
   AND   due_date < '2024-1'
-ORDER BY due_date;
+  ORDER BY due_date;
