@@ -1,11 +1,11 @@
- - "SQL Exercises" 
+  "SQL Exercises" 
   
-- Exercise 1. Asignemtns for a specific Course  
+-Exercise 1. Asignemtns for a specific Course  
   SELECT title, due_date
   FROM assignments 
   WHERE course_id LIKE 'COMP1234'
 
-- Exercise 2. Earliest Assignments DUe Date
+-Exercise 2. Earliest Assignments DUe Date
   SELECT min(due_date)
   FROM assignments
 
